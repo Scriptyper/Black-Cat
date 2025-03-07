@@ -24,4 +24,13 @@ body {
   width: 100%;
   height: 50px;
   background-color: #D83F87;
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  line-height: 0.5;
+  color: #A4B3B6
+}
+p.logo {
+  font-size: 5px;
 }

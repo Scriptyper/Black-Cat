@@ -30,6 +30,7 @@ body {
 .logo {
   line-height: 0.5;
   color: #44318D;
+  margin: 50, 0;
 }
 p.logo {
   font-size: 5px;
